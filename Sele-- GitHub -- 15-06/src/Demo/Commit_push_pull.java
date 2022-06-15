@@ -12,6 +12,11 @@ public class Commit_push_pull
    {
  	   System.out.println("hello gits by m1 Method ");
    }
+	
+	public void m3()
+   {
+ 	   System.out.println("hello gits by m3 Method....Pull ");
+   }
    
 	public static void main(String[] args) 
 	{
