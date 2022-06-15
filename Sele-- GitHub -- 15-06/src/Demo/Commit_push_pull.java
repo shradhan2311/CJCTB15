@@ -17,6 +17,11 @@ public class Commit_push_pull
    {
  	   System.out.println("hello gits by m3 Method....Pull ");
    }
+	
+	public void m4()
+   {
+ 	   System.out.println("hello gits by m3 Method....for Branch Master ");
+   }
    
 	public static void main(String[] args) 
 	{
